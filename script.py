@@ -110,7 +110,7 @@ def obter_dados_rio_janeiro(inicio, fim):
 
     driver.quit()
 
-    return "D:\\Documentos D\\dacri\\PluvRio"
+    return "PluvRio"
 
 
 inicio_ano = 2000
